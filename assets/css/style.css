@@ -6,3 +6,7 @@
     background-position: left;
     height: 30rem;
 }
+
+body {
+    background-color: beige !important;
+}
